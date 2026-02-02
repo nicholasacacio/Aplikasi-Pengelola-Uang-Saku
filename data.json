@@ -1,0 +1,1 @@
+{"saldo": 20000.0, "transactions": [{"type": "pemasukan", "amount": 30.0, "timestamp": "2026-02-02T06:16:40.442666"}, {"type": "pemasukan", "amount": 20000.0, "timestamp": "2026-02-02T06:18:27.792779"}, {"type": "pengeluaran", "amount": 30.0, "timestamp": "2026-02-02T06:18:40.318275"}]}
